@@ -1,21 +1,21 @@
 # API de Inventario - Eliath Velasco
 Repositorio para la Prueba II de Construcción y Evolución de Software.
-Esta API utiliza Express para obtener datos desde un archivo que contiene un objeto JavaScript para almacenar los datos.<br>
+Esta API utiliza Express para obtener datos de un archivo que contiene un objeto JavaScript.<br>
 **Nota:** los métodos en JS no se escriben en snake_case, sino en camelCase.
 ## Requisitos
 - Node.js
 - npm
-
+- Postman (de preferencia)
+  
 ## Instalación
 1. Clonar el repositorio.
 2. Ejecutar `npm install` para instalar dependencias (Express y Jest).
 
 ## Ejecución
-- Ejecuta `node app.js` para iniciar la aplicación y accede a a través del navegador a `localhost:300` o al puerto que has asignado.
+- Ejecuta `node app.js` para iniciar la aplicación y acceder a través del navegador a `localhost:300` o al puerto asignado.
 
 ## Pruebas
-- Ejecuta `npm test` para correr las pruebas unitarias en `productTests.test.js`
-.
+- Ejecuta `npm test` para correr las pruebas unitarias que se encuentran en `productTests.test.js`.
 
 ![alt text](/capturas/image.png)
 
